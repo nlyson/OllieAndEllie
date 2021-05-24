@@ -1,3 +1,2 @@
 # OllieAndEllie
-#
-# Sandbox for testing out Unity game features
+# Sandbox for implementing game element ideas
